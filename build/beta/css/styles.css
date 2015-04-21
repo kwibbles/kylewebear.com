@@ -10,7 +10,7 @@ body{
 	color:#7a7c7f;
 	font-weight:300;
 	overflow-x:hidden;
-    background-color: #152945;
+    background-color: #0a0404;
 }
 
 h1,
@@ -82,6 +82,11 @@ a:focus,
 /*----------------------
 ---Main Layout Styles---
 ------------------------*/
+
+header{
+    background: #0a0404;
+}
+
 .bear-coding{
 	position: absolute;
 	top: 100px;
